@@ -83,7 +83,7 @@ int main()
         break;
         default:
 
-        printf(" enter you valid number");
+        printf(" enter your valid number");
         
       
          }
