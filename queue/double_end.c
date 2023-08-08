@@ -3,7 +3,7 @@
 int f=-1,r=-1;
 int a[n];
 int display()
-{
+{ 
     int i;
     if(f<0)
        printf("Queue is empty:\n");
