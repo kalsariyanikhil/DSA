@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 #include<stdlib.h>
 struct  node
@@ -38,7 +39,7 @@ void instert(int val)
         ptr->next=temp;
         return;
     }
-}
+ }
 void deletend()
 {
     struct node *ptr=head;
